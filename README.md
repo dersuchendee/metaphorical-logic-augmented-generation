@@ -14,18 +14,23 @@ This work  introduces a Knowledge-Augmented Generation (KAG) framework that comb
 
 ## Project Structure
 
-├── data/ # Contains datasets or input files for the project │ ├── raw/ # Original/raw data files │ ├── processed/ # Processed or cleaned data │ └── README.md # Instructions or details about the data ├── code/ # Contains scripts or notebooks │ ├── src/ # Source code for the project │ ├── notebooks/ # Jupyter or other notebooks for analysis │ └── README.md # Details about the code structure ├── README.md # Overview of the project └── LICENSE # License file
+├── data/               # Contains datasets and annotations
+│   ├── datasets/            # Original datasets
+│   ├── annotator_responses/      # Annotations
+│   └── README.md       
+│
+├── code/               # Contains scripts or notebooks
+│   ├── src/            # Source code for the project
+│   ├── notebooks/      # Jupyter or other notebooks for analysis
+│   └── README.md       # Details about the code structure
+│
+├── README.md           
+
 
 
 ## Data
 
-The `data/` directory contains the following:
 
-- `raw/`: This folder contains the original datasets.
-- `processed/`: This folder contains processed or cleaned datasets, ready for analysis.
-- `README.md`: A file with additional details or instructions on how to use the data files.
-
-Ensure the data follows the expected format before running the code.
 
 ## Ontology
 
@@ -39,10 +44,5 @@ For full information, it is possible to visit [this link](http://www.ontologydes
 
 ## Code
 
-The `code/` directory contains:
 
-- `src/`: Core source code for the project, including scripts, modules, and functions.
-- `notebooks/`: Jupyter or similar notebooks that contain exploratory data analysis, visualizations, or experiments.
-
-Please follow the instructions in the `README.md` file inside the `code/` directory to understand the code structure and how to run it.
 
