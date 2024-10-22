@@ -33,7 +33,7 @@ Ensure the data follows the expected format before running the code.
 
 ![Blending Ontology](blendingontobasic.jpg)
 
-For full information, it is possible to visit [this link]([https://www.example-link.com](http://www.ontologydesignpatterns.org/ont/mdns/blending.owl)).
+For full information, it is possible to visit [this link]([[https://www.example-link.com](http://www.ontologydesignpatterns.org/ont/mdns/blending.owl)](http://www.ontologydesignpatterns.org/ont/mdns/blending.owl)).
 
 
 
