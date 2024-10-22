@@ -1,0 +1,148 @@
+,sentence,Metaphor,label
+0,She gave me a good idea,IDEAS_ARE_POSSESSIONS,1
+1,This mini-controversy erupted when Republicans introduced a string of amendments in a final effort to obstruct passage of the reconciliation bill,INHIBITTING_ENACTMENT_OF_LEGISLATION_IS_IMPEDING_MOTION,1
+2,With the official start of primary season candidates were off and running as they sought to quickly raise millions of dollars for ad buys,ELECTION_IS_A_RACE,1
+3,The US handed over control of the prisoners to Afghan authorities The Democrats wrested control of four governerships from the Republicans in some cases the loss of possession is not voluntary and The government acquired control of the company's assets,CHANGE_IN_CONTROLLER_IS_TRANSFER_OF_POSSESSION,1
+4,The money is all dried up,MONEY_IS_A_LIQUID,1
+5,Congress' refusal to compromise is moving the country toward economic ruin,ACTION_IS_MOTION_ALONG_A_PATH,1
+6,He deviated from the straight and narrow,MORALITY_IS_A_STRAIGHT_PATH,1
+7,My business is growing like a weed,SOCIAL_ORGANIZATIONS_ARE_PLANTS,1
+8,She squeezed her way to thinner thighs,ACTION_IS_SELF-PROPELLED_MOTION_ALONG_A_PATH,1
+9,Our relationship is veering off-course,ROMANTIC_RELATIONSHIPS_ARE_VEHICLES,1
+10,Dirt threatens to sink ship of state headline,POLITICAL_REGION_IS_A_VEHICLE,1
+11,He is a man of fiery passions,EMOTIONALLY_INTENSE_IS_HOT,1
+12,Improving access to education is the only sure way to cure us of poverty,ADDRESSING_POVERTY_IS_TREATING_AN_ILLNESS,1
+13,Signal left turn right: central rhetoric and local reform in China,GOVERNMENT_IS_A_DRIVER,1
+14,There are twenty members in this group,GROUPS_ARE_CONTAINERS,1
+15,He's an articulate thinker,THINKING_IS_SPEAKING,1
+16,The goal is a long way off,ACHIEVING_A_PURPOSE_IS_REACHING_A_DESTINATION,1
+17,It takes work to build any relationship,RELATIONSHIPS_ARE_COMPLEX_STRUCTURES,1
+18,He went on with what he was doing,ACTION_IS_SELF-PROPELLED_MOTION_ALONG_A_PATH,1
+19,She was doing a slow burn,ANGER_IS_FIRE,1
+20,The voters of Dillon have clearly spoken,VOTING_IS_SPEAKING,1
+21,When my mother finds out she'll have a fit,ANGER_IS_INSANITY,1
+22,This gives me a great idea!,LEARNING_IS_ACQUIRING,1
+23,She's out of her depression,EXPERIENCING_A_STATE_IS_BEING_AT_A_LOCATION,1
+24,He just can't seem to grasp the concept,UNDERSTANDING_IS_GRASPING,1
+25,What's holding you back from pursuing your dreams,DIFFICULTIES_ARE_IMPEDIMENTS_TO_MOVEMENT,1
+26,He got rid of his headache,CHANGE_IS_LOSS,1
+27,That's all behind us now,TIME_IS_A_LANDSCAPE_THROUGH_WHICH_THE_OBSERVER_MOVES,1
+28,We are going nowhere with this,PURPOSEFUL_ACTION_IS_SELF-PROPELLED_MOTION_TO_A_DESTINATION,1
+29,A Triumph in the War Against Cancer,DISEASE_TREATMENT_IS_WAR,1
+30,The CEO looks after her employees with motherly kindness,MORAL_AGENTS_ARE_NURTURING_PARENTS,1
+31,He's pure of heart and therefore would never hurt someone,MORALITY_IS_PURITY,1
+32,His eyes scoured the horizon,SEEING_IS_TOUCHING,1
+33,He's down with the flu,HEALTH_IS_VERTICALITY,1
+34,I'm mad!,ANGER_IS_INSANITY,1
+35,If the injustice is part of the necessary friction of the machine of government let it go: perchance it will wear smooth--certainly the machine will wear out,GOVERNMENT_INSTITUTION_IS_A_MACHINE,1
+36,I have no idea what my friends are doing they've kept me completely in the dark,KNOWING_IS_PERCEIVING,1
+37,He has control over all the workers,CONTROL_IS_A_POSSESSION,1
+38,He's pure evil,PURITY_IS_CLEANLINESS,1
+39,I had reached the boiling point,ANGER_IS_THE_HEAT_OF_FLUID_IN_A_CONTAINER,1
+40,Another round of cuts will cripple the economy,CAUSING_ECONOMIC_HARDSHIP_IS_CAUSING_PHYSICAL_HARM,1
+41,Opponents tried to dismantle the theory piece by piece,THEORIES_ARE_BUILDINGS,1
+42,He's in a superior position,CONTROL_IS_UP,1
+43,Both sides girded for battle as they knew the general election would be a hard-won fight,ELECTION_IS_WAR,1
+44,and asked them to be serious towards bringing a full-fledged budget at the earliest to ensure that the country functions smoothly,NATION_IS_A_MACHINE,1
+45,You could talk about the dealerships auto dealerships that were closed down when the government got control of a couple of the auto companies an awful lot of people lost jobs businesses were closed and so on,ATTAINING_CONTROL_IS_GAINING_A_POSSESSION,1
+46,His income fell last year,QUANTITY_IS_VERTICALITY,1
+47,He is just floating around,ACHIEVING_A_PURPOSE_IS_REACHING_A_DESTINATION,1
+48,Do the exercises at the end of this chapter,MIND_IS_A_BODY,1
+49,RNA transcription,A_GENOME_IS_A_TEXT,1
+50,tissues composed of cells that have become independent to some degree of the normal growth-controlling forces of the host,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS_LIVING_IN_A_SOCIETY,1
+51,[of cancer elements] Their further fate depends on various factors,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+52,This information is encoded in DNA,A_GENOME_IS_A_TEXT,1
+53,spontaneous cancers,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS_LIVING_IN_A_SOCIETY,1
+54,"Within a specific cell type, certain genes are ""switched on"" while others are ""switched off"" and thus inaccessible to the cell's transcriptional machinery.",A_CELL_IS_A_MACHINE,1
+55,Organisms responsible for bacteremia in profoundly neutropenic patients may be found colonizing various body sites before development of bacteremia,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+56,Relatively little is known about DNA repair mechanisms in higher organisms,A_CELL_IS_A_MACHINE,1
+57,the cells that can mediate the greatest killing,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+58,the multistep process of neoplasia,CARCINOGENESIS/METASTASIS_CONSIST_OF_SEVERAL_STEPS,1
+59,the total population of cells,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS_LIVING_IN_A_SOCIETY,1
+60,DNA methylation may increase transcriptional activity of a gene,A_GENOME_IS_A_TEXT,1
+61,providing the cell with the ability to withstand toxic agentd,MANY_ENTITIES_ARE_CAUSATIVE_AGENTS,1
+62,the growth and maturation of normal tissues,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+63,"promoting agents, or the new class of ""progressor"" agents",MANY_ENTITIES_ARE_CAUSATIVE_AGENTS,1
+64,carcinogenesis usually is considered multistage,CARCINOGENESIS/METASTASIS_CONSIST_OF_SEVERAL_STEPS,1
+65,their [cancer cells'] chance of survival,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+66,"a layer of ""feeder cells""",(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+67,"A related technique, called the polymerate chain reaction (PCR), uses specific primers to copy and amplify a specific DNA sequence.",A_GENOME_IS_A_TEXT,1
+68,the behavior of blood-borne cancer cells,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+69,gag- or env-onc fusion products may serve to contribute to transforming potential by misdirecting an oncogene product to an improper cellular location,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS_LIVING_IN_A_SOCIETY,1
+70,Tumor cells must penetrate,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+71,the sheer complexity of this multistep tumor-host interaction,CARCINOGENESIS/METASTASIS_CONSIST_OF_SEVERAL_STEPS,1
+72,and the primary RNA transcript consists of a series of coding an noncoding regions.,A_GENOME_IS_A_TEXT,1
+73,members of the oncogene group that rescues cells from senescence,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+74,Tumor cell invasio requires crossing tissue compartment barriers such as basement membranes and interstitial connective tissues.,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+75,"It [the cell] may divide, giving rise to one or more generations of daughter cells before some or all of the progeny become sterile",(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+76,ready for battle,DIFFICULTIES_ARE_OPPONENTS,1
+77,cells that immigrate from unirradiated adjacent areas,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+78,I’m … also sharpening my weapons in case I have to do battle,DIFFICULTIES_ARE_OPPONENTS,1
+79,I’m not winning this battle,DIFFICULTIES_ARE_OPPONENTS,1
+80,...which is lethal for S-phase cells,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+81,"Fibrosarcomas and angiosarcomas ..., invade surrounding muscle basement membrane and destroy myocytes.",(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+82,"These studies, carried out princiaplly with mouse epiermis in vivo, suggested that the latent period during epidermal carcinogenesis of the skin of the mouse consisted of at least two stages, now termed initiation and promotion.",CARCINOGENESIS/METASTASIS_CONSIST_OF_SEVERAL_STEPS,1
+83,Growth of more fastidious cells,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+84,...and therefore these cells will survive treatment,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+85,Tumor cells must cross basement membranes to invade peripheral nerves ...,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+86,cDNA libraries...have been extremely useful for identifying transcripts,A_GENOME_IS_A_TEXT,1
+87,ask your chemo nurses or your specialist if your looking for anything that might be of help in your fight against cancer,DIFFICULTIES_ARE_OPPONENTS,1
+88,"The matrix determines tissue architecture, has important biologic functions, and is a mechanical barrier to invasion",(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+89,gene expression: transcription translation,A_GENOME_IS_A_TEXT,1
+90,But the emotional side of cancer and of BC [breast cancer] in particular is the real killer—it strangles and shocks your soul.,DIFFICULTIES_ARE_OPPONENTS,1
+91,"It [a metastatic tumour cell] must then enter the circulation, survive in the circulation, arrest at the distant vascular bed, extravasate into the organ interstitium and parenchyma, and multiply to initiate a metastatic colony",(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+92,This activates a process termed signal transduction whereby specific signals are transmitted throughout the cell to the nucleus,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS_LIVING_IN_A_SOCIETY,1
+93,"neoplastic stem cells in a GO state present a major obstacle to any chemotherapy based on selectively killing only growing, cycling cells.",(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+94,Normal stem cells are susceptible to a variety of positively and negatively acting growth factors that provide a growth regulatory feedback network,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS_LIVING_IN_A_SOCIETY,1
+95,second messengers,(TUMOUR)_CELLS_ARE_HUMAN_BEINGS_LIVING_IN_A_SOCIETY,1
+96,"The action of these substances might, in part, explain both the markedly invasive character and the metastatic property of malignang neoplastic cells.",(TUMOUR)_CELLS_ARE_HUMAN_BEINGS,1
+97,These cells...are extremely large...and contain large stores of gene transcription and mRNA translation machinery.,A_CELL_IS_A_MACHINE,1
+98,Mulching is a pleasant activity for October.,No Metaphor,0
+99,We have seen Brittany.,No Metaphor,0
+100,Had it been stolen?,No Metaphor,0
+101,Then I do normally watch it with you.,No Metaphor,0
+102,She was almost asleep.,No Metaphor,0
+103,Some else is sitting at their desk?,No Metaphor,0
+104,Even if you do not intend to be disloyal there is always the risk that you might be careless.,No Metaphor,0
+105,Old men remembering their youth.,No Metaphor,0
+106,Nobody spoke immediately.,No Metaphor,0
+107,And yet there are accidents.,No Metaphor,0
+108,Four hours of instruction a day for two weeks.,No Metaphor,0
+109,We are trying to find our missing scientist now.,No Metaphor,0
+110,"But he he said,  don't wash it I wanna wear it.",No Metaphor,0
+111,And don't try and get the door open.,No Metaphor,0
+112,I think it 's a good idea.,No Metaphor,0
+113,Madame snorted again.,No Metaphor,0
+114,They ought to be near him soon.,No Metaphor,0
+115,I was shocked for a minute.,No Metaphor,0
+116,People are coming to do some Christian teaching for us.,No Metaphor,0
+117,Lawton came and crouched down in front of it.,No Metaphor,0
+118,"Adam sat in his parents' house, drinking tea.",No Metaphor,0
+119,"That's not my artwork on there, that's my little niece's artwork.",No Metaphor,0
+120,The inspector was not listening.,No Metaphor,0
+121,The doorbell sounded.,No Metaphor,0
+122,When did you eat when did you eat your chips?,No Metaphor,0
+123,The further away the better.,No Metaphor,0
+124,The friend found one at a garage.,No Metaphor,0
+125,Yeah I know.,No Metaphor,0
+126,Output from the system is both tabular and graphical .,No Metaphor,0
+127,Chosen routes were those which minimized population rather than distance.,No Metaphor,0
+128,He had not prayed for Ann Maguire.,No Metaphor,0
+129,Ours is actually a new house.,No Metaphor,0
+130,Name badges are worn by staff.,No Metaphor,0
+131,I don't understand business.,No Metaphor,0
+132,But the upstairs one that is the kitchen is a bit smaller.,No Metaphor,0
+133,They saw Daniel advancing.,No Metaphor,0
+134,He shrugged his narrow shoulders.,No Metaphor,0
+135,I don't like Miss Fitch.,No Metaphor,0
+136,I want you to promise me here and now that you will not see Gary Oliver again.,No Metaphor,0
+137,Well you just go to the front entrance,No Metaphor,0
+138,He did not even see an English newspaper.,No Metaphor,0
+139,When he was little he was sat in his buggy.,No Metaphor,0
+140,He once bought me a Louis Vuitton handbag.,No Metaphor,0
+141,The day of the hearing of her second case she had been found dead.,No Metaphor,0
+142,There was nothing in his house to remind him of Ecalpemos.,No Metaphor,0
+143,Where do you get your carrots from?,No Metaphor,0
+144,Are we to sell our cattle or our land?,No Metaphor,0
+145,Others are not so well informed.,No Metaphor,0
+146,Lawton scanned upwards.,No Metaphor,0
