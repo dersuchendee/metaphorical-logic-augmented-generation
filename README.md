@@ -20,8 +20,7 @@ This work  introduces a Knowledge-Augmented Generation (KAG) framework that comb
 │   └── README.md       
 │
 ├── code/               
-│   ├── src/            
-│   ├── notebooks/      
+│    
 │   └── README.md       
 │
 ├── README.md           
@@ -30,6 +29,7 @@ This work  introduces a Knowledge-Augmented Generation (KAG) framework that comb
 
 ## Data
 
+Data contains datasets and annotator responses.
 
 
 ## Ontology
@@ -43,6 +43,8 @@ For full information, it is possible to visit [this link](http://www.ontologydes
 
 
 ## Code
+
+Code contains the code template for visual and image prompting.
 
 
 
