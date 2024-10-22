@@ -14,15 +14,15 @@ This work  introduces a Knowledge-Augmented Generation (KAG) framework that comb
 
 ## Project Structure
 
-├── data/               # Contains datasets and annotations
-│   ├── datasets/            # Original datasets
-│   ├── annotator_responses/      # Annotations
+├── data/               
+│   ├── datasets/            
+│   ├── annotator_responses/      
 │   └── README.md       
 │
-├── code/               # Contains scripts or notebooks
-│   ├── src/            # Source code for the project
-│   ├── notebooks/      # Jupyter or other notebooks for analysis
-│   └── README.md       # Details about the code structure
+├── code/               
+│   ├── src/            
+│   ├── notebooks/      
+│   └── README.md       
 │
 ├── README.md           
 
