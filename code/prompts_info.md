@@ -228,22 +228,4 @@ blending:isMetaphorical "True"^^xsd:Boolean;
 
 For the BCMTD, manual checks complement the automated extraction to gain deeper understanding about source and target identification.
 
-## Usage
 
-These prompts can be used with large language models to:
-1. Detect conceptual metaphors in text
-2. Understand visual metaphors in images
-3. Generate RDF knowledge graphs representing metaphorical mappings
-4. Classify metaphorical vs. literal language
-
-## Citation
-
-If you use these prompts in your research, please cite our paper:
-
-```bibtex
-[Your citation here]
-```
-
-## License
-
-[Your license information]
