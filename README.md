@@ -1,7 +1,7 @@
-# A Knowledge Augmented Generation Approach to Enhance Multimodal Analogical Reasoning
+# A Logic Augmented Generation Approach to Enhance Multimodal Analogical Reasoning
 
 
-This work  introduces a Knowledge-Augmented Generation (KAG) framework that combines knowledge graphs with Conceptual Blending-inspired prompts to capture implicit analogies. Applied to metaphor detection tasks, it outperforms baselines, enhances explainability, and even exceeds human performance in understanding visual metaphors.
+This work introduces a Logic-Augmented Generation (LAG) framework that combines knowledge graphs with Conceptual Blending-inspired prompts to capture implicit analogies. Applied to metaphor detection tasks, it outperforms baselines, enhances explainability, and even exceeds human performance in understanding visual metaphors.
 
 ## Table of Contents
 
