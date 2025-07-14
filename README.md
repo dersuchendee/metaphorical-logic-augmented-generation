@@ -31,8 +31,13 @@ This work introduces a Logic-Augmented Generation (LAG) framework that combines 
 
 Data contains datasets and annotator responses.
 
+## Code
+
+Code contains prompts and code templates for LAG-based metaphorical processing.
 
 ## Ontology
+
+The framework is built upon the Conceptual Blending Ontology which provides a formal representation of metaphorical and conceptual blending processes. This ontology is crucial for understanding how the LAG framework operates:
 
 # Core Blending Ontology
 
